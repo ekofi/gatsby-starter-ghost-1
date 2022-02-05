@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://tech-interview-coaching.herokuapp.com",
+    "contentApiKey": "c874422e6a070ed1517975925d"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://tech-interview-coaching.herokuapp.com",
+    "contentApiKey": "c874422e6a070ed1517975925d"
   }
 }
